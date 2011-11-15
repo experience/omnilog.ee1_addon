@@ -52,4 +52,4 @@ class Omnilogger {
 
 
 /* End of file      : omnilogger.php */
-/* File location    : third_party/omnilog/classes/omnilogger.php */
+/* File location    : /system/modules/omnilog/classes/omnilogger.php */
