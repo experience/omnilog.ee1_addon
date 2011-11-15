@@ -1,0 +1,38 @@
+/**
+ * Common OmniLog control panel styles.
+ *
+ * @author          Stephen Lewis (http://github.com/experience/)
+ * @copyright       Experience Internet
+ * @package         Omnilog
+ */
+
+@media screen {
+
+  .experienceinternet td,
+  .experienceinternet th {
+    vertical-align      : top;
+  }
+
+  .experienceinternet .button {
+    white-space         : nowrap;
+  }
+
+  .experienceinternet .button:hover {
+    text-decoration     : none;
+  }
+
+
+  /* --------------------------------------------------------------
+   * LOG TABLE
+   * ------------------------------------------------------------ */
+  .extended_data_body {
+    display             : block;
+    margin-bottom       : 5px;
+  }
+
+
+} /* @media screen */
+
+
+/* End of file      : cp.css */
+/* File location    : /themes/cp_themes/default/omnilog/common/css/cp.css */
